@@ -1,0 +1,5 @@
+Functionality: When a sensor is triggered, play a track.
+
+Requirements: Arduino, Ultrasonic Sensor, Mp3 Shield, micro SD card, SFEMP3Shield library and SD card library and some speakers or headphones to get hear the track.
+
+Tested on Arduino UNO R3, VS1053 MP3 shield, and a Virtuabotix Ultrasonic Distance Rangefinder/Obstacle Detection Module
